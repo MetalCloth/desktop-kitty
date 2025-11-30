@@ -102,8 +102,9 @@ Standard collision logic often causes sprites to "vibrate" against walls. This p
 
 * **Code:** [MetalCloth](https://github.com/MetalCloth)
 * **Engine:** [Ebitengine](https://ebitengine.org/)
-* **Art:** [Link to the Artist/Asset Pack you used]
+* **Art:** RANDOM PINTEREST SPRITE
 
 ---
 
 *Built with ❤️ (and physics) in Golang.*
+
