@@ -7,8 +7,10 @@
 > **A chaotic, physics-enabled cat that lives on top of your Windows taskbar.**
 > Built from scratch using **Go** and **Ebitengine**.
 
-![Demo Gif](https://media.giphy.com/media/placeholder-url-replace-this-with-your-gif.gif)
-*(Replace this line with a GIF of you yeeting the cat!)*
+[![Demo video](https://github.com/user-attachments/assets/79c20d41-ecf6-4e09-a04e-0f030de77215)](https://github.com/user-attachments/assets/79c20d41-ecf6-4e09-a04e-0f030de77215)
+
+
+
 
 ---
 
@@ -107,4 +109,5 @@ Standard collision logic often causes sprites to "vibrate" against walls. This p
 ---
 
 *Built with ❤️ (and physics) in Golang.*
+
 
